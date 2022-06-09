@@ -1,0 +1,30 @@
+{
+    "employee": [
+        {
+            "name": "Dhanashreee",
+            "gender": "male",
+            "salary": 500000,
+            "startdate": "2021-03-12",
+            "note": "All in one",
+            "profilePic": "Desltop/dhanu.jpg",
+            "departments": [
+                "Hr",
+                "Sales"
+            ]
+        },
+        
+        {
+            "name": "Ovi",
+            "gender": "male",
+            "salary": 500000,
+            "startdate": "2021-03-12",
+            "note": "All in one",
+            "profilePic": "Desltop/dhanu.jpg",
+            "departments": [
+                "Hr",
+                "Sales"
+            ]
+        }
+        
+    ]
+}

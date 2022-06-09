@@ -1,0 +1,110 @@
+.header {
+    padding: 15px 0;
+    border-color: aliceblue;
+  }
+  .header-content {
+    display: flex;
+   padding-top: 10px;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 5mm;
+    align-items: center;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .logo-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 80%;
+  }
+  .logo-content-img {
+    border: solid 0px #42515f;
+  }
+  .emp-text {
+    font: normal normal bold 20px/25px Montserrat;
+    font-family: "Montserrat",sans-serif;
+    letter-spacing: 0px;
+    color: #82a72c;
+    text-transform: capitalize;
+  }
+  .emp-payroll {
+    color: #42525f;
+  }
+  .main-content{
+      display: flex;
+      flex-direction: row;
+  }
+  .form-head{
+    color: #42525f;
+    padding-top: 8mm;
+    font-size:larger;
+    font-weight: bold;
+    margin-left: 4cm;
+  }
+
+  .adduser{
+      margin-left: 1mm;
+      border-radius: 0.9mm;
+      width: 2.5cm;
+      height: 1cm;
+      background-color: rgb(5, 180, 5);
+  }
+
+  .add-button{
+    color: white;
+    font-weight:500;
+  }
+
+  .addimg{
+    margin-left: 15cm;
+    height: 0.8cm;
+    width: 1cm;
+   border-radius: 1.5cm;
+  }
+  .table-content{
+    display: flex;
+    font-size: small;
+    width: 68%;
+    background-color: white;
+    margin-left: 11%;
+  }
+  .pro{
+    padding-left: 14px;
+  }
+  .name{
+    padding-left: 2cm;
+  }
+  .action {
+    padding-left: 0.8cm;
+  }
+  .head {
+    text-transform: uppercase;
+    justify-content: center;
+    margin-top: 1cm;
+  }
+  .content {
+    text-align: center;
+    padding-top: 20px;
+  }
+  .edit{
+    margin-left: 7mm;
+    width: 0.4cm;
+    height: 0.4cm;
+    padding-left: 0;
+  }
+  .delete {
+    width: 0.7cm;
+    height: 0.7cm;
+    margin-left: 3mm;
+  
+  }
+
+
+
+  
+ 
+  
+  
